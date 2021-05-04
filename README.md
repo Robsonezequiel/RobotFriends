@@ -4,6 +4,6 @@ Robotfriends is a project from Zero To Mastery Academy aimed for students to lea
 
 How to run the project:
 
-1- Clone this repo
-2- Run `npm install`
-3- Run `npm start`
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
